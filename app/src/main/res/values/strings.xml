@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Counter Application</string>
+    <string name="number">201713709003</string>
+    <string name="fullName">Ümit Sancaklı</string>
+    <string name="counterView">0</string>
+    <string name="plusButton">+</string>
+    <string name="minusButton">-</string>
+    <string name="settingsButton">Ayarlar</string>
+</resources>
